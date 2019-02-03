@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ssn.ssn_yrc">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".SsnYrcApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+    <activity
+        android:name=".activities.SplashActivity"
+        android:noHistory="true"
+        android:theme="@style/SplashTheme">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name=".activities.MainActivity" />
+    <activity android:name=".activities.LoginActivity" />
+    <activity
+        android:name=".activities.RegisterActivity"
+        android:theme="@style/RegisterTheme" />
+    <activity android:name=".activities.BloodDonorsActivity" />
+    <activity android:name=".activities.EventsActivity" />
+    <activity android:name=".activities.EventDetailsActivity" />
+    <activity android:name=".activities.NotificationActivity" />
+    <activity android:name=".activities.NotificationDetailActivity" />
+    <activity android:name=".activities.AboutYrcActivity" />
+
+    <service android:name=".MyFirebaseMessagingService">
+        <intent-filter>
+            <action android:name="com.google.firebase.MESSAGING_EVENT" />
+        </intent-filter>
+    </service>
+
+    <meta-data
+        android:name="com.google.firebase.messaging.default_notification_icon"
+        android:resource="@drawable/ssn_logo" />
+    <meta-data
+        android:name="com.google.firebase.messaging.default_notification_color"
+        android:resource="@color/colorAccent" />
+
+    <meta-data
+        android:name="com.bugsnag.android.API_KEY"
+        android:value="f723f1db93e348066ccc381f9c1e620f" />
+    </application>
+</manifest>

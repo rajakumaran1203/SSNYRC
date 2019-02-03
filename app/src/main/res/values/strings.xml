@@ -1,0 +1,103 @@
+<!--
+  ~     Copyright (C) 2017  Adithya J
+  ~
+  ~     This program is free software: you can redistribute it and/or modify
+  ~     it under the terms of the GNU General Public License as published by
+  ~     the Free Software Foundation, either version 3 of the License, or
+  ~     (at your option) any later version.
+  ~
+  ~     This program is distributed in the hope that it will be useful,
+  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~     GNU General Public License for more details.
+  ~
+  ~     You should have received a copy of the GNU General Public License
+  ~     along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<resources>
+    <string name="app_name">SSN YRC</string>
+
+    <string name="menu_help">Help</string>
+
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unknown_sign_in_response">Unknown response from Auth sign-in</string>
+    <string name="unknown_error">An unknown error occurred</string>
+
+    <string name="blood_camp">The blood donation camp was held on 15-09-2016 between 1:00 pm and 3.30 pm at the ECE Central Seminar Hall, SSNCE. The program was conducted in association with Madras Voluntary Blood Donors Association and the Government Hospital, Chennai. The camp was conducted in collaboration with National Service Scheme(NSS), SSNCE.\n\n
+The procedure for blood donation included the following steps:\n
+\n
+Weight checkup\n
+Blood pressure checkup\n
+Haemoglobin checkup\n
+\n
+If all the above eligibility are satisfied blood is collected and stored in a hygienic way. Around 240 units of blood was collected from the students and staff. About 25 students volunteered for the event. The program was organized by YRC volunteers Jayakanthan, Ponarassan, HariPrathaap,  Roshini, KrishnaPriya, Bhanumathi along with the NSS volunteers and coordinated by YRC faculty in-charge Dr. Joesph Gladwin, Asso. Prof., ECE, Dr. Sree Sharmila, Asso. Prof., IT and Dr Nanda S., student counselor.</string>
+    <string name="eye_camp">The eye camp was held on 06-09-2016.The program was conducted between 10:00 am and 2.30 pm at the mini auditorium, SSNCE and was conducted in association with Vasan Eye Care, Chrompet, Chennai. The highlights of this camp are\n
+\n
+Pupillary dilation test\n
+Refraction test\n
+Eye pressure checkup\n
+Eye care tips\n
+\n
+	Around 300 students from B.E/B.Tech participated in the program and got their eyes checked and about 20 students volunteered in the event. The benefits they gained from attending this camp is the subsidy on payment for further eye checkups, surgery and opticals. The program was organized by YRC volunteers Jayakanthan, Ponarassan, HariPrathaap, Prasanna, Roshini, KrishnaPriya, Bhanumathi and coordinated by YRC faculty in-charge Dr. Joseph Gladwin, Asso.Prof., ECE, Dr. Sree Sharmila, Asso. Prof., IT and Dr. Nanda S., student counselor.</string>
+    <string name="orphanage">Orphanage and Oldage Home visit was held on 04-03-2017. The visit was conducted between 02:00 p.m. and 05:30 p.m. YRC volunteers of SSNCE gathered at Annai Illam, Karapakkam and made the event successful.\n
+\n
+The highlights of this visit are:-\n\n
+At Orphanage:\n
+To motivate them in chasing their dreams.\n
+To discuss the importance of education and moral values.\n
+Created happiness by indulging in their lovable activities.\n
+To help children by showing the right path in fulfilling their goals.\n
+To make the children aware about the outer world.\n
+\n
+At Oldage Home:\n
+Seen the heights of true love.\n
+Showered them with more zeal and joy.\n
+\n
+There were more than 125 children in the orphanage and 25 age-old people at the place. We went with bundles of biscuit packets, packets of pens, pencils, notebooks, dress,eatable items, rice, toor daal and general stationery. We handed over all the items to the head. He was so pleased with our hospitality. The children there , were too innocent and they were so strong to face any difficulties in their life. The pure smile and true love they showered on us is really noteworthy. The children were kept engaged in activities and games. We also provided them with some of the snacks that we took for them. Age-old people shared some of the sparks and dark phases of their lives.\n
+\n
+We assured them of providing happiness now-and-then by our regular visit. It’s our immense pleasure to be a part of their happiness. The active participation of 40 SSN YRC volunteers was the reason for the success of this visit. The visit was organized by YRC volunteers Jayakanthan, Ponnarasan,  Roshini, KrishnaPriya, Ruby Rosaline, Kurunji malar  and coordinated by YRC faculty in-charge Dr. Joseph Gladwin, Asso. Prof., ECE, Dr. Sree Sharmila, Asso. Prof., IT .</string>
+    <string name="village_camp">“It’s not what the Nation done to us, but it’s what we have done to Nation”. A small step initiated to enforce this, Youth Red Cross has organized “village camp” on 26-01-2017. A three day camp was organized where 60 people took part effectively.\n\n
+On the very first day, it has been an auspicious day since it’s a Republic day, Our volunteers gathered in one of the major schools in the village. We took part in their republic day celebrations. Many speeches were offered by the school children who were keenly interested in developing our country. Some our volunteers and professors spoke about the importance of the day. Our volunteers shared some of our memories with them by distributing chocolates. Our volunteers came to know about the facilities that the school had. We thought of improving the infrastructure of the school. We then made steps to initiate the process. From the very first day we started to develop the school premises.\n\n
+Second day went on with a big bang, our volunteers had split up ourselves to 2-3 people and took in charge of each class. We were with them for the whole day. We spoke to them about the society, how the outside world is. We also guided them in fulfilling their wishes and dreams. It was an opportunity for every individual to guide the children in a righteous way, whereas some individuals took part in cleansing the school. They removed all the dirt from walls, painted all the walls and made the school clean with no sign of dust.\n\n
+On the last day we made efforts for entertaining them and so we made it as a cultural day. We made use of morning hours by cleaning the village and a village survey has been taken by our volunteers. Some of our volunteers participated in guiding students in dance, drama and other activities. By noon we started the cultural programme most of the children in the school took part so effectively and made it successful. Finally we presented some gifts to all the children and also received a great token of thanks from the school head and staff.  The event  was organized by YRC volunteers Jayakanthan, Ponnarasan,  Roshini, KrishnaPriya, Ruby Rosaline and coordinated by YRC faculty in-charge Dr. Joseph Gladwin, Asso. Prof., ECE, Dr. Sree Sharmila, Asso. Prof., IT .</string>
+    <string name="hospital_cleaning">“CLEANLINESS IS NEXT TO GODLINESS” is an age-old proverb, but it doesn’t fade away even now. The level of noise, temperature and the amount of light are all important but the cleanliness of the environment is crucial. Despite generally held views that environmental cleanliness is vital for infection prevention, there is little current robust evidence to support this view. Although a major focus of attention in the past, is about the environment was largely dismissed as insignificant in the transmission of infection in hospitals. Seeing it as a major concern YRC volunteers of SSNCE came forward to put our efforts in cleaning the hospital.\n
+                 30 volunteers of SSNYRC gathered at kilpakkam Government Medical hospital, kilpakkam on 19-02-2017. There, we went to the orthopedic building which is a four-stored one. We had cleant all the walls, white-washed it. We also swiped off all the dust and dirt in all the fans. There were about nearly 200 fans in the whole building. we had disposed of the plastics from the hospital surroundings. Our volunteers got so much pleased with humorous levels of the hospital people there. There treated us with great respect and love. They offered some eatable items to our people. They also offered a seminar about how to take immediate steps regarding heart-aches, nervous- disorders etc.\n
+\n\n
+                    Some of our volunteers also spoke about their experiences  and ill-effects for not keeping the surroundings clean and protecting environment. Atlast we thanked them for giving us the opportunity and received the same back from them. . The event  was organized by YRC volunteers Jayakanthan, Ponnarasan,  KrishnaPriya, Hemavathi and coordinated by YRC faculty in-charge Dr. Joseph Gladwin, Asso. Prof., ECE, Dr. Sree Sharmila, Asso. Prof., IT .</string>
+    <string name="beach_cleaning">Pollution is the most hazadarous thing threatening the entire world. No proper disposal of waste also contributes a factor for that. Keeping that in mind, beach cleaning was held on 18-02-2017. The session took its shape between 10:30 a.m. and 1:30 p.m. YRC volunteers of SSNCE gathered at Marina, to serve our level best in making the beach clean.\n
+                         30 volunteers of SSNYRC came forward to clean the beach upto our extent in order to serve the environment. We all gathered near Kannagi statue, (Marina). All our volunteers got split up into many groups , each group went in different directions to cover up a great amount of land.  We all collected a huge amount of plastic covers, plastic spoons, waste papers, cigarette covers, and some other dry dust. The activity went on for 3 hrs. We started at Kannagi statue and carried on till Light house. The event was organized by YRC volunteers Jayakanthan, Ponnarasan, Ruby Rosaline and coordinated by YRC faculty in-charge Dr. Joseph Gladwin, Asso. Prof., ECE, Dr. Sree Sharmila, Asso. Prof., IT .\n
+\n
+                              “SAVE ENVIRONMENT SAVE FUTURE..!!”</string>
+    <string name="campus_cleaning">The Campus cleaning program was held on 28-09-2016 between 4:00 pm and 5.30 pm at the SSNCE. About 39 students volunteered for the Program. The program was organized by YRC volunteer Jayakanthan coordinated by YRC faculty in-charge Dr. Joesph Gladwin, Asso. Prof., ECE, Dr. Sree Sharmila, Asso. Prof., IT.</string>
+    <string name="stem_cell">Stem cell registration was organized by Youth Red Cross on February 11th 2017. Ms. Sethukarasi manager from Datri Blood Stem Cell Donor Registry had conducted an awareness program on the concepts of Stem cells in mini auditorium at SSN College of Engineering, Chennai.  Stem cells are undifferentiated cells that can differentiate into specialized through mitosis. One interesting fact is that stem cells can also be derived from the blood of umbilical cord during child birth, which can later prove useful in treating the child in the future. Most of the students have participated in the awareness program. Mr.R.Jayakanthan from final year IT department co-ordinates a team of 50 YRC members. Then the team was splitted into four groups and they have put the stalls at four places inside the college premises in order to improve the registration. On the whole 200 volunteers have enrolled their names for registration. The proceedings of the presentation and activities were largely informative and quite precise.</string>
+    <string name="march_past">Performing March-past was one of the prestigious events that SSNYRC presents in a most delighted way. The day has come to perform the march-past on 31st of march since it is the 18th Annual sports day of SSN. YRC took its team of 30 to perform in the pavilion. The day started by 9:00 a.m. morning with the declaration of the chief-guest Mr.K.SANKAR, former FIFA World cup Referee. The event took its shape in the following way:\n
+\n
+1. March-Past by 9.00 a.m.\n
+2. Declare the Meet Open by the Chief Guest\n
+3. Lighting the Olympic torch\n
+4. Olympic Oath by B.V.RAMYA TULASI (IV B.E Civil Engg)\n
+    A. Welcome Address by Sports Secretary Ms. I.B.AKSHAY (IV yr MECH)\n
+    B. Introduction of the Chief Guest\n
+    C. Bouquet and Memento to Chief Guest\n
+    D. Address by the Chief Guest\n
+    E. Prize distribution by the Chief Guest (100 Mts women and 400 Mts Men, Individual Championships, Special Awards)\n
+5. Athletic Events (Order of Events Listed below)\n
+6. Annual Report by Director of Physical Education Dr.P.BALAJI\n
+7. Prize Distribution to staff\n
+8. Prize Distribution to Students\n
+9. Special awards to sports students\n
+10. Vote of Thanks by Sports Secretary – R.SHARMILA of IV B.Tech. IT\n
+11. National Anthem\n
+        \n
+Once all the events has finished in a sequential manner the prize distribution to the participants of march-past was announced. YRC has bagged runner-up for the academic year of 2017 in march-past. This event was successfully conducted by Jayakanthan, Ponnarasan, and Naveen of final years and co-ordinated by YRC faculty incharge Dr. Joseph Gladwin, Asso. Prof., ECE, Dr. Sree Sharmila, Asso.Prof.,IT. </string>
+
+    <string name="about_yrc">“Every human has something to offer this world; the question is Will we create a society that can see everyone’s worth?” this has always been interesting when we think about it. And so the answer came to be ‘Youth Red Cross’.\n\n
+The youth Red Cross Society aims to inspire, encourage and initiate at all times, all forms of humanitarian activities so that human suffering can be minimized, alleviated and even prevented, thus contribute to creating a more congenial climate for peace. It makes no discrimination as to nationality, race, religious beliefs, class or political opinions. It endeavours to relieve the suffering of individuals, being guided solely by their needs, and to give priority to the most urgent cases of distress. It is a voluntary relief movement not prompted in any manner by desire for gain.</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, his consul verear torquatos ne. Magna graecis eam no. Mel eu inani ludus, pro bonorum habemus no, ius copiosae convenire te. Usu at illud probatus, no pri fabulas pertinax. In putent voluptaria ius, vix augue noluisse verterem an. Cum inani persius theophrastus at, vel ad tempor cotidieque.</string>
+
+    <string name="connection_failed">Connection Failed</string>
+    <string name="alerts_retry">Retry</string>
+</resources>
